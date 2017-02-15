@@ -1,6 +1,6 @@
 #Music in the St. Adalbert Abbey in Staniątki
 
-##Project funded by Narodowe Centrum Nauki (National Science Centre Poland)
+###Project funded by Narodowe Centrum Nauki (National Science Centre Poland)
 
 The St. Wojciech Abbey in Staniątki is the oldest Polish female monastery. Its 800 anniversary falls in in 2016, although the precise date of foundation is not known. The contemporary researchers tend to move the date of convent establishment, transferred by the tradition, to 1228 or even a bit later. The convent of Staniątki is an extraordinary phenomenon, both due to its uninterrupted persistence and its culture-creative role. Huge collection of works of sacred art, liturgical appliances as well as the architectural foundation and other aspects of material and spiritual heritage of the monastery have resulted in unflagging interest of researchers over many years. Among papers representing such branches as history, history of art, architecture, genealogy and others, one can also find elaborations related to selected aspect of musical life. The rich heritage of the abbey in this regard, and in particular the priceless music sources, encourage to take a better look at the history of musical culture of Staniątki.
 
