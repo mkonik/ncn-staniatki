@@ -2,7 +2,7 @@
 
 ###Project funded by <a target="new" href="http://www.ncn.gov.pl">Narodowe Centrum Nauki</a> (National Science Centre Poland) grant ref: 2011/03/D/HS2/01824.
 
-<a href="https://doi.org/10.5281/zenodo.291881"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.291881.svg" alt="DOI"></a>
+<a target="new" href="https://doi.org/10.5281/zenodo.291881"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.291881.svg" alt="DOI"></a>
 
 <p align="justify">
 The St. Wojciech Abbey in Staniątki is the oldest Polish female monastery. Its 800 anniversary falls in in 2016, although the precise date of foundation is not known. The contemporary researchers tend to move the date of convent establishment, transferred by the tradition, to 1228 or even a bit later. The convent of Staniątki is an extraordinary phenomenon, both due to its uninterrupted persistence and its culture-creative role. Huge collection of works of sacred art, liturgical appliances as well as the architectural foundation and other aspects of material and spiritual heritage of the monastery have resulted in unflagging interest of researchers over many years. Among papers representing such branches as history, history of art, architecture, genealogy and others, one can also find elaborations related to selected aspect of musical life. The rich heritage of the abbey in this regard, and in particular the priceless music sources, encourage to take a better look at the history of musical culture of Staniątki.
