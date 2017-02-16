@@ -1,4 +1,4 @@
-#Music in the St. Adalbert Abbey in Staniątki
+#Music in the St. Wojciech Abbey in Staniątki
 
 ###Project funded by <a target="new" href="http://www.ncn.gov.pl">Narodowe Centrum Nauki</a> (National Science Centre Poland) grant ref: 2011/03/D/HS2/01824.
 
@@ -15,14 +15,14 @@ The aim of the hereby work is to outline the synthetic view of the history of mu
 <p align="justify">
 During the source research, the following sources were subjected to analysis:
 1.	Musical sources:
-(a)	liturgical handwritings, 
-(b)	cantionals, 
-(c)	musical works of the ensemble, 
+(a)	liturgical handwritings,
+(b)	cantionals,
+(c)	musical works of the ensemble,
 2.	Archive sources:
-(a)	account books, 
-(b)	monastery chronicles, 
-(c)	inventories, anniversaries, catalogs, 
-(d)	other documentation. 
+(a)	account books,
+(b)	monastery chronicles,
+(c)	inventories, anniversaries, catalogs,
+(d)	other documentation.
 </p>
 
 <p align="justify">
@@ -46,9 +46,9 @@ The personal composition of the ensemble in the 2nd half of the 18th century was
 </p>
 
 <p align="justify">
-The collection of notes remained by the vocal-instrumental ensemble from Staniątki is one of the most precious among Polish collections of monastic origin. It comprises of about 200 handwritings including over 240 works. Quoting precise number is not possible since a certain, small number of manuscripts has only residually remained, while in case of part of the sources we do not know whether they were performed by the ensemble or were created only for the sisters themselves or for the needs of educational activity carried out by the monastery (same referring in particular to the pool of  handwritings without signatures, including i.a. late copies of piano compositions of didactic character). Thanks to the fact that the monastery was never dissolved, musical works are still kept in the same place where they were created and used. This situation is rather uncommon in Poland and the closest analogy recalls the collection of Paulines from Jasna Góra. For sure the stability of conditions and the dedicated care of the collection in the 20th century led to the fact that nowadays the musical handwriting are complete and in good condition. 
+The collection of notes remained by the vocal-instrumental ensemble from Staniątki is one of the most precious among Polish collections of monastic origin. It comprises of about 200 handwritings including over 240 works. Quoting precise number is not possible since a certain, small number of manuscripts has only residually remained, while in case of part of the sources we do not know whether they were performed by the ensemble or were created only for the sisters themselves or for the needs of educational activity carried out by the monastery (same referring in particular to the pool of  handwritings without signatures, including i.a. late copies of piano compositions of didactic character). Thanks to the fact that the monastery was never dissolved, musical works are still kept in the same place where they were created and used. This situation is rather uncommon in Poland and the closest analogy recalls the collection of Paulines from Jasna Góra. For sure the stability of conditions and the dedicated care of the collection in the 20th century led to the fact that nowadays the musical handwriting are complete and in good condition.
 </p>
 
 <p align="justify">
-In the analytic part dedicated to the repertoire of the songs, the most recent techniques of computerized analysis, developed in the Center for Computer Assisted Research in the Humanities of Stanford University, were applied. 
+In the analytic part dedicated to the repertoire of the songs, the most recent techniques of computerized analysis, developed in the Center for Computer Assisted Research in the Humanities of Stanford University, were applied.
 </p>
