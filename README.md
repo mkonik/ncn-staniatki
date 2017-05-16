@@ -1,6 +1,6 @@
-#Music in the St. Wojciech Abbey in Staniątki
+# Music in the St. Wojciech Abbey in Staniątki
 
-###Project funded by <a target="new" href="http://www.ncn.gov.pl">Narodowe Centrum Nauki</a> (National Science Centre Poland) grant ref: 2011/03/D/HS2/01824.
+### Project funded by <a target="new" href="http://www.ncn.gov.pl">Narodowe Centrum Nauki</a> (National Science Centre Poland) grant ref: 2011/03/D/HS2/01824.
 
 <a href="https://doi.org/10.5281/zenodo.291881"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.291881.svg" alt="DOI"></a>
 
